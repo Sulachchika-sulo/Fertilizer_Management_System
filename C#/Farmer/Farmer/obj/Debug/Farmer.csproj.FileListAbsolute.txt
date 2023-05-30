@@ -1,0 +1,235 @@
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\bin\Debug\Farmer.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\bin\Debug\Farmer.exe
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\bin\Debug\Farmer.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\obj\Debug\Farmer.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\obj\Debug\Farmer.exe
+C:\Users\User\AppData\Local\Temporary Projects\Farmer\obj\Debug\Farmer.pdb
+F:\Diploma ICT\c#.vb\Farmer\Farmer\bin\Debug\Farmer.exe.config
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.exe
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.pdb
+F:\Diploma ICT\c#.vb\Farmer\Farmer\bin\Debug\Farmer.exe
+F:\Diploma ICT\c#.vb\Farmer\Farmer\bin\Debug\Farmer.pdb
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\bin\Debug\MySql.Data.dll
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.season.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.search.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.accdelete.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+F:\Diploma ICT\c#.vb\Farmer\Farmer\obj\Debug\Farmer.login.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.exe.config
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.exe
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.pdb
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.exe
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.pdb
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.accdelete.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.login.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.search.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.season.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+F:\Diploma ICT\c#\Farmer\Farmer\bin\Debug\Farmer.exe.config
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.exe
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.pdb
+F:\Diploma ICT\c#\Farmer\Farmer\bin\Debug\Farmer.exe
+F:\Diploma ICT\c#\Farmer\Farmer\bin\Debug\Farmer.pdb
+F:\Diploma ICT\c#\Farmer\Farmer\bin\Debug\MySql.Data.dll
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.login.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.search.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.season.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.Billing.resources
+F:\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.exe.config
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.exe
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.pdb
+F:\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.exe
+F:\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.pdb
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.accdelete.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Billing.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.login.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.print.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.search.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.season.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+F:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+H:\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.exe.config
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.exe
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.pdb
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.accdelete.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Billing.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.login.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.print.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.search.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.season.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+H:\Fertilizer project\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+H:\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.exe
+H:\Fertilizer project\Farmer\Farmer\bin\Debug\Farmer.pdb
+H:\Fertilizer project\Farmer\Farmer\bin\Debug\MySql.Data.dll
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\bin\Debug\Farmer.exe.config
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.exe
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.pdb
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\bin\Debug\Farmer.exe
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\bin\Debug\Farmer.pdb
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.Billing.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.login.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.search.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.season.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.dataprint.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\RdlCompile.cache
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\RdlCompile.compiled
+E:\project c#\Farmer\Farmer\bin\Debug\Farmer.exe.config
+E:\project c#\Farmer\Farmer\obj\Debug\Farmer.exe
+E:\project c#\Farmer\Farmer\obj\Debug\Farmer.pdb
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.acchange.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.ataccess.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.forgot.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.taxt.resources
+H:\Project\Farmer\Farmer\bin\Debug\Farmer.exe.config
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.exe
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.pdb
+H:\Project\Farmer\Farmer\bin\Debug\Farmer.exe
+H:\Project\Farmer\Farmer\bin\Debug\Farmer.pdb
+H:\Project\Farmer\Farmer\bin\Debug\MySql.Data.dll
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.acchange.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.ataccess.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.Billing.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.dataprint.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.forgot.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.login.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.print2.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.search.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.season.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.taxt.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+H:\Project\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+H:\Project\Farmer\Farmer\obj\Debug\RdlCompile.cache
+H:\Project\Farmer\Farmer\obj\Debug\RdlCompile.compiled
+F:\Project\Farmer\Farmer\bin\Debug\Farmer.exe.config
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.exe
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.pdb
+F:\Project\Farmer\Farmer\bin\Debug\Farmer.exe
+F:\Project\Farmer\Farmer\bin\Debug\Farmer.pdb
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.acchange.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.acre.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.ataccess.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.Billing.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.dataprint.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.forgot.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.login.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.print2.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.search.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.season.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.taxt.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+F:\Project\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+F:\Project\Farmer\Farmer\obj\Debug\RdlCompile.cache
+F:\Project\Farmer\Farmer\obj\Debug\RdlCompile.compiled
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.acre.resources
+F:\Diploma ICT\c#\Farmer\Farmer\obj\Debug\Farmer.Form2.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.acchange.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.acre.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.ataccess.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.dataprint.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.forgot.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.Form2.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\Farmer.taxt.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\RdlCompile.cache
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\Farmer\Farmer\obj\Debug\RdlCompile.compiled
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\bin\Debug\Farmer.exe.config
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.exe
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.pdb
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\bin\Debug\Farmer.exe
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\bin\Debug\Farmer.pdb
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.csprojResolveAssemblyReference.cache
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.acchange.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.acre.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.ataccess.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.Billing.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.createacc.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.dataprint.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.Edit.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.farmer.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.farmerEdit.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.fertilizer.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.forgot.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.Form1.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.Form2.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.login.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.Properties.Resources.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.search.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.season.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.taxt.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.welcome.resources
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\Farmer.csproj.GenerateResource.Cache
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\RdlCompile.cache
+C:\Users\ICT-PC-11.DESKTOP-5UN961N\Desktop\c# project\Farmer\Farmer\obj\Debug\RdlCompile.compiled

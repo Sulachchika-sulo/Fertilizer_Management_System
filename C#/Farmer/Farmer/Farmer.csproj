@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3DA1454E-F901-4847-8A12-3FD35EFABA05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Farmer</RootNamespace>
+    <AssemblyName>Farmer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Printing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acchange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acchange.Designer.cs">
+      <DependentUpon>acchange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acre.Designer.cs">
+      <DependentUpon>acre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin.cs" />
+    <Compile Include="ataccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ataccess.Designer.cs">
+      <DependentUpon>ataccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Billing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Billing.Designer.cs">
+      <DependentUpon>Billing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createacc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createacc.Designer.cs">
+      <DependentUpon>createacc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dataprint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dataprint.Designer.cs">
+      <DependentUpon>dataprint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edit.Designer.cs">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="farmer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="farmer.Designer.cs">
+      <DependentUpon>farmer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="farmerEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="farmerEdit.Designer.cs">
+      <DependentUpon>farmerEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fertilizer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fertilizer.Designer.cs">
+      <DependentUpon>fertilizer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forgot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forgot.Designer.cs">
+      <DependentUpon>forgot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="search.Designer.cs">
+      <DependentUpon>search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="season.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="season.Designer.cs">
+      <DependentUpon>season.cs</DependentUpon>
+    </Compile>
+    <Compile Include="taxt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="taxt.Designer.cs">
+      <DependentUpon>taxt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="viewdata.cs" />
+    <Compile Include="welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome.Designer.cs">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="acchange.resx">
+      <DependentUpon>acchange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acre.resx">
+      <DependentUpon>acre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ataccess.resx">
+      <DependentUpon>ataccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Billing.resx">
+      <DependentUpon>Billing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createacc.resx">
+      <DependentUpon>createacc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dataprint.resx">
+      <DependentUpon>dataprint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edit.resx">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="farmer.resx">
+      <DependentUpon>farmer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="farmerEdit.resx">
+      <DependentUpon>farmerEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fertilizer.resx">
+      <DependentUpon>fertilizer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forgot.resx">
+      <DependentUpon>forgot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="search.resx">
+      <DependentUpon>search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="season.resx">
+      <DependentUpon>season.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="taxt.resx">
+      <DependentUpon>taxt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\viewdata.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interface1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interface.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agrarian.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\846406.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fertilizer-6766447_1280.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\666201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\747376.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2546743.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\447002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4461426.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8464061.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8464062.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3635104.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-517188688-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-2vdcx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\446991.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4469911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\846551.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4469912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_490217.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-button-icon-18.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-button-icon-181.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-circle-close-button-png-5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4470021.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\235-2350682_new-svg-image-small-user-login-icon-hd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1177568.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_visible_hide_hidden_show_icon_145988.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_visible_hide_hidden_show_icon_1459881.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_slash_visible_hide_hidden_show_icon_145987.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_slash_visible_hide_hidden_show_icon_1459871.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye_visible_hide_hidden_show_icon_1459882.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4469913.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\25467431.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_106530.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4469914.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accept_37154.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
